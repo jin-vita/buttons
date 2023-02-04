@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: const Text('메인 화면'),
       ),
       body: Container(
-        color: Colors.blue,
+        color: Colors.yellow,
         child: ListView(
           scrollDirection: Axis.vertical,
           children: [
